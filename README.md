@@ -1,6 +1,6 @@
 # Denis Melo
 
-Back-end developer [@Sambatech](https://sambatech.com.br).
+Back-end developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-denis%20Melo-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enismelo/)](https://www.linkedin.com/in/denismelo)
 [![Gmail Badge](https://img.shields.io/badge/-denysmello@gmail.com-AD201C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:denysmello@gmail.com)](mailto:denysmello@gmail.com)
